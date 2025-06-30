@@ -1,4 +1,4 @@
-# 💼 HR Management System (HRMS)
+# 💼 ModernTech Solutions HR-Management System
 
 A responsive, modular Human Resource Management System built with **Vue.js**, **Vue Router**, and **Bootstrap 5**. This project streamlines HR tasks like managing employees, attendance, payroll, leave requests, and performance reviews — all with mock data and local storage, making it ideal for demos or training use.
 
